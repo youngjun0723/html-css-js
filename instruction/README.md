@@ -23,6 +23,10 @@ public class Main {
     github에 올리기(first push시 -u 사용. 이후 push, pull시 git push, git pull만 사용가능) 
     (git branch로 main인지 master인지 확인)
     - git push -u origin main
+
+    원격 주소 변경하고 다시 등록(기존 주소가 잘못된 경우에만!!)
+    - git remote remove origin
+    - git remote add origin https://github.com/사용자명/폴더명.git
      */
   }
 }

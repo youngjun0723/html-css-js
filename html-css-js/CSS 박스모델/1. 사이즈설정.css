@@ -1,0 +1,8 @@
+/* .parent-box {
+    font-size: 16px;
+} */
+
+.child-box {
+    /* font-size: 2em; 32px */
+    font-size: 2rem; /* <html>요소의 폰트 크기에 상대적인 크기를 나타낸다. */
+} 
